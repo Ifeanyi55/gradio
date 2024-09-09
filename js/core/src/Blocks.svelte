@@ -393,7 +393,7 @@
 					];
 				}
 
-				if (status.stage === "complete") {
+				if (status.stage === "complete" || status.stage === "generating") {
 					status.changed_state_ids?.forEach((id) => {
 						dependencies
 							.filter((dep) => dep.targets.some(([_id, _]) => _id === id))
