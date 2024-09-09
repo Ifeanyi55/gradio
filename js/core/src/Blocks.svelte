@@ -401,13 +401,13 @@
 								wait_then_trigger_api_call(dep.id, payload.trigger_id);
 							});
 					});
-					dependencies.forEach(async (dep) => {
-						if (dep.trigger_after === fn_index) {
-							wait_then_trigger_api_call(dep.id, payload.trigger_id);
-						}
-					});
-
-					// submission.destroy();
+					if (status.stage === "complete") {
+						dependencies.forEach(async (dep) => {
+							if (dep.trigger_after === fn_index) {
+								wait_then_trigger_api_call(dep.id, payload.trigger_id);
+							}
+						});
+					}
 				}
 				if (status.broken && is_mobile_device && user_left_page) {
 					window.setTimeout(() => {
