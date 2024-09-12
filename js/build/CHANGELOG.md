@@ -1,5 +1,11 @@
 # @self/build
 
+## 0.1.0-beta.2
+
+### Features
+
+- [#9326](https://github.com/gradio-app/gradio/pull/9326) [`7afb9a1`](https://github.com/gradio-app/gradio/commit/7afb9a14fa64310eb8b70f43a3bad373e46e36c1) - 5.0 merge take 2.  Thanks @pngwn!
+
 ## 0.0.3-beta.1
 
 ### Dependency updates

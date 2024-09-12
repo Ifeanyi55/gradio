@@ -1,5 +1,20 @@
 # @gradio/multimodaltextbox
 
+## 0.6.0-beta.2
+
+### Features
+
+- [#9280](https://github.com/gradio-app/gradio/pull/9280) [`7122420`](https://github.com/gradio-app/gradio/commit/712242047fde3a594dfde7f48a44c7ea16239dc8) - Match style of textbox stop button to submit button.  Thanks @freddyaboulton!
+
+### Dependency updates
+
+- @gradio/statustracker@0.8.0-beta.2
+- @gradio/atoms@0.9.0-beta.2
+- @gradio/upload@0.13.0-beta.2
+- @gradio/icons@0.8.0-beta.2
+- @gradio/image@0.16.0-beta.2
+- @gradio/video@0.11.0-beta.2
+
 ## 0.6.0-beta.1
 
 ### Features

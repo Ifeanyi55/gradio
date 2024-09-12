@@ -1,5 +1,12 @@
 # @gradio/form
 
+## 0.1.25-beta.2
+
+### Dependency updates
+
+- @gradio/atoms@0.9.0-beta.2
+- @gradio/icons@0.8.0-beta.2
+
 ## 0.1.25-beta.1
 
 ### Dependency updates

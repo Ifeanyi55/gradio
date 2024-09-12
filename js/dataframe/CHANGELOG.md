@@ -1,5 +1,15 @@
 # @gradio/dataframe
 
+## 0.10.1-beta.2
+
+### Dependency updates
+
+- @gradio/statustracker@0.8.0-beta.2
+- @gradio/button@0.3.0-beta.2
+- @gradio/atoms@0.9.0-beta.2
+- @gradio/upload@0.13.0-beta.2
+- @gradio/markdown@0.9.4-beta.2
+
 ## 0.10.1-beta.1
 
 ### Features

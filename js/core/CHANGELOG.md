@@ -1,5 +1,32 @@
 # @gradio/core
 
+## 0.1.0-beta.2
+
+### Features
+
+- [#9253](https://github.com/gradio-app/gradio/pull/9253) [`99648ec`](https://github.com/gradio-app/gradio/commit/99648ec7c4443e74799941e47b0015ac9ca581e1) - Adds ability to block event trigger when file is uploading.  Thanks @dawoodkhan82!
+- [#9269](https://github.com/gradio-app/gradio/pull/9269) [`e05f568`](https://github.com/gradio-app/gradio/commit/e05f568f47e9fa33ef91dbbe5cc477d32762bc36) - Fix reload mode and streaming in 5.0 dev.  Thanks @freddyaboulton!
+
+### Dependency updates
+
+- @gradio/code@0.9.1-beta.2
+- @gradio/paramviewer@0.4.22-beta.2
+- @gradio/statustracker@0.8.0-beta.2
+- @gradio/button@0.3.0-beta.2
+- @gradio/atoms@0.9.0-beta.2
+- @gradio/upload@0.13.0-beta.2
+- @gradio/wasm@0.14.0-beta.2
+- @gradio/icons@0.8.0-beta.2
+- @gradio/file@0.10.0-beta.2
+- @gradio/image@0.16.0-beta.2
+- @gradio/video@0.11.0-beta.2
+- @gradio/column@0.2.0-beta.0
+- @gradio/gallery@0.13.0-beta.2
+- @gradio/markdown@0.9.4-beta.2
+- @gradio/plot@0.6.5-beta.2
+- @gradio/textbox@0.7.0-beta.2
+- @gradio/checkbox@0.4.0-beta.2
+
 ## 0.1.0-beta.1
 
 ### Features

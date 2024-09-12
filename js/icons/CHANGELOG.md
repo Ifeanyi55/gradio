@@ -1,5 +1,11 @@
 # @gradio/icons
 
+## 0.8.0-beta.2
+
+### Features
+
+- [#9280](https://github.com/gradio-app/gradio/pull/9280) [`7122420`](https://github.com/gradio-app/gradio/commit/712242047fde3a594dfde7f48a44c7ea16239dc8) - Match style of textbox stop button to submit button.  Thanks @freddyaboulton!
+
 ## 0.8.0-beta.1
 
 ### Features
